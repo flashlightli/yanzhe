@@ -15,7 +15,9 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
+from Testyz.views import A
 
 urlpatterns = [
     path('admin/', admin.site.urls),
+    path('test/celery', A.as_view())
 ]
