@@ -41,5 +41,5 @@ print(strftime('%Y-%m-%d', localtime()))
 
 res = requests.get('http://image6.pengfu.com/origin/181019/5bc970324a7a4.gif')
 img = res.content
-with open('./img2.gif', "wb") as f:  # 开始写文件，wb代表写二进制文件
+with open('./slide', "wb") as f:  # 开始写文件，wb代表写二进制文件
     f.write(img)
