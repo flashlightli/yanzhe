@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="e5226503-a153-4eed-8537-7774e0d78c7d" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SinaWeibo/SinaWeibo/get_joke.py" beforeDir="false" afterPath="$PROJECT_DIR$/SinaWeibo/SinaWeibo/get_joke.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SinaWeibo/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/SinaWeibo/run.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,7 +23,9 @@
     <SUITE FILE_PATH="coverage/yanzhe$base.coverage" NAME="base Coverage Results" MODIFIED="1537890743255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/rpc_li" />
     <SUITE FILE_PATH="coverage/yanzhe$http_client.coverage" NAME="http_client Coverage Results" MODIFIED="1537462393249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/http_server/src" />
     <SUITE FILE_PATH="coverage/yanzhe$test__2_.coverage" NAME="test (2) Coverage Results" MODIFIED="1540312876175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/slide" />
+    <SUITE FILE_PATH="coverage/yanzhe$weibo.coverage" NAME="weibo Coverage Results" MODIFIED="1540515177703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SinaWeibo/SinaWeibo" />
     <SUITE FILE_PATH="coverage/yanzhe$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1540313287496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SinaWeibo/test" />
+    <SUITE FILE_PATH="coverage/yanzhe$run.coverage" NAME="run Coverage Results" MODIFIED="1540515188648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SinaWeibo" />
     <SUITE FILE_PATH="coverage/yanzhe$demo.coverage" NAME="demo Coverage Results" MODIFIED="1537669922972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/yanzhe$http_server.coverage" NAME="http_server Coverage Results" MODIFIED="1537462149334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/http_server/src" />
     <SUITE FILE_PATH="coverage/yanzhe$qiu.coverage" NAME="qiu Coverage Results" MODIFIED="1540138976699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/slide" />
@@ -40,7 +44,7 @@
       <file leaf-file-name="test.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SinaWeibo/test/test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
+            <state relative-caret-position="90">
               <caret line="8" selection-start-line="7" selection-start-column="26" selection-end-line="8" />
               <folding>
                 <element signature="e#42#85#0" expanded="true" />
@@ -49,13 +53,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="run.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="run.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SinaWeibo/run.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="51" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
+            <state relative-caret-position="15">
+              <caret line="1" column="8" selection-start-line="1" selection-end-line="2" />
               <folding>
-                <element signature="e#42#85#0" expanded="true" />
+                <element signature="e#42#75#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -70,11 +74,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="get_joke.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="get_joke.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/SinaWeibo/SinaWeibo/get_joke.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="43" selection-start-line="43" selection-end-line="43" selection-end-column="31" />
+            <state>
+              <caret column="23" selection-start-column="23" selection-end-column="23" />
               <folding>
                 <element signature="e#0#14#0" expanded="true" />
               </folding>
@@ -120,8 +124,8 @@
       <file leaf-file-name="weibo.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SinaWeibo/SinaWeibo/weibo.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1455">
-              <caret line="103" column="8" selection-start-line="103" selection-start-column="8" selection-end-line="103" selection-end-column="8" />
+            <state relative-caret-position="660">
+              <caret line="49" column="78" selection-start-line="49" selection-start-column="73" selection-end-line="49" selection-end-column="78" />
             </state>
           </provider>
         </entry>
@@ -166,6 +170,7 @@
       <find>vue-router</find>
       <find>getAdminData</find>
       <find>url</find>
+      <find>group</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/grpc-master/src/python</dir>
@@ -232,13 +237,13 @@
         <option value="$PROJECT_DIR$/li_pro/app2/urls.py" />
         <option value="$PROJECT_DIR$/vue_manage/src/router/index.js" />
         <option value="$PROJECT_DIR$/moni.py" />
-        <option value="$PROJECT_DIR$/SinaWeibo/SinaWeibo/weibo.py" />
         <option value="$PROJECT_DIR$/slide/dou.py" />
         <option value="$PROJECT_DIR$/slide/test.py" />
-        <option value="$PROJECT_DIR$/SinaWeibo/SinaWeibo/get_joke.py" />
         <option value="$PROJECT_DIR$/SinaWeibo/test/test.py" />
         <option value="$PROJECT_DIR$/SinaWeibo/.gitignore" />
+        <option value="$PROJECT_DIR$/SinaWeibo/SinaWeibo/weibo.py" />
         <option value="$PROJECT_DIR$/SinaWeibo/run.py" />
+        <option value="$PROJECT_DIR$/SinaWeibo/SinaWeibo/get_joke.py" />
       </list>
     </option>
   </component>
@@ -297,6 +302,9 @@
     <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/SinaWeibo" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/SinaWeibo/test" />
       <recent name="$PROJECT_DIR$" />
@@ -314,7 +322,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.get_joke">
+  <component name="RunManager" selected="Python.run">
     <configuration name="get_joke" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="yanzhe" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -334,7 +342,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="moni" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="yanzhe" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -342,12 +350,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SinaWeibo" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/moni.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SinaWeibo/run.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -391,7 +399,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="weibo" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="yanzhe" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -399,12 +407,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SinaWeibo/SinaWeibo" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SinaWeibo/SinaWeibo/weibo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -435,19 +443,19 @@
     </configuration>
     <list>
       <item itemvalue="Django server.li_pro" />
-      <item itemvalue="Python.test" />
-      <item itemvalue="Python.moni" />
       <item itemvalue="Python.test (1)" />
       <item itemvalue="Python.get_joke" />
       <item itemvalue="Python.test (2)" />
+      <item itemvalue="Python.run" />
+      <item itemvalue="Python.weibo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.run" />
+        <item itemvalue="Python.weibo" />
         <item itemvalue="Python.get_joke" />
         <item itemvalue="Python.test (1)" />
         <item itemvalue="Python.test (2)" />
-        <item itemvalue="Python.moni" />
-        <item itemvalue="Python.test" />
       </list>
     </recent_temporary>
   </component>
@@ -504,37 +512,45 @@
       <option name="project" value="LOCAL" />
       <updated>1540311845982</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="微博project">
+      <created>1540488147814</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1540488147814</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="709" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.3284553" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.29268292" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.29180327" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32894737" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.3289689" />
       <window_info anchor="right" id="Mongo Explorer" order="3" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.34150326" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3398693" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24959612" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39674798" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3967213" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="TypeScript" order="7" />
-      <window_info anchor="bottom" id="Inspection Results" order="8" weight="0.32894737" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection Results" order="8" weight="0.32894737" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3284553" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.3284553" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -565,17 +581,10 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="20" />
+      <option name="time" value="21" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/slide/qiu.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/slide/peng.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -799,13 +808,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SinaWeibo/imgs/temp.jpg" />
-    <entry file="file://$PROJECT_DIR$/SinaWeibo/SinaWeibo/weibo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1455">
-          <caret line="103" column="8" selection-start-line="103" selection-start-column="8" selection-end-line="103" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/slide/fu.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="230">
@@ -833,16 +835,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SinaWeibo/SinaWeibo/get_joke.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="43" selection-start-line="43" selection-end-line="43" selection-end-column="31" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/SinaWeibo/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -852,7 +844,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/SinaWeibo/test/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
+        <state relative-caret-position="90">
           <caret line="8" selection-start-line="7" selection-start-column="26" selection-end-line="8" />
           <folding>
             <element signature="e#42#85#0" expanded="true" />
@@ -860,12 +852,36 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/typing.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="475" column="8" selection-start-line="475" selection-start-column="8" selection-end-line="475" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SinaWeibo/SinaWeibo/weibo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="49" column="78" selection-start-line="49" selection-start-column="73" selection-end-line="49" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/SinaWeibo/run.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="51" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
+        <state relative-caret-position="15">
+          <caret line="1" column="8" selection-start-line="1" selection-end-line="2" />
           <folding>
-            <element signature="e#42#85#0" expanded="true" />
+            <element signature="e#42#75#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SinaWeibo/SinaWeibo/get_joke.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="23" selection-start-column="23" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
           </folding>
         </state>
       </provider>

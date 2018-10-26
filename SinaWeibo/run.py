@@ -1,11 +1,12 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-from SinaWeibo.SinaWeibo.weibo import Weibo
-from SinaWeibo.SinaWeibo.get_joke import get_data, del_data
-from time import strftime, localtime, time
+from SinaWeibo.weibo import Weibo
+from SinaWeibo.get_joke import get_data, del_data
+from time import strftime, localtime
+import time
 
 
-if __name__ == '__main__':
+def run():
     while True:
         hour = strftime('%H', localtime())
         if int(hour) >= 7 and int(hour) <= 23:
@@ -19,7 +20,7 @@ if __name__ == '__main__':
             del_data(data.get('id'))
         time.sleep(3600)
 
-
+run()
     #wb.postMessage(message="0.2测试1:文本")
     # time.sleep(1)
     # wb.postImage("0.2测试2:一张图片","/Downloads/4.png")
