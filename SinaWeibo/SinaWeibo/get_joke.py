@@ -26,7 +26,7 @@ def get_data():
         _list = joke.get('imgs').split('.')
         _ = 'temp.' + _list[-1]
         path = _
-        with open('../imgs/' + _, "wb") as f:  # 开始写文件，wb代表写二进制文件
+        with open('imgs/' + _, "wb") as f:  # 开始写文件，wb代表写二进制文件
             f.write(img)
     # print(joke.get('_id'))
     # qq = table.delete_one({'_id': joke.get('_id')})

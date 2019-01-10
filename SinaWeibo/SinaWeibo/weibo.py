@@ -39,12 +39,15 @@ class Weibo(object):
             resp = self.session.get('https://login.sina.com.cn/sso/prelogin.php?entry=weibo&callback=sinaSSOController.preloginCallBack&su=%s&rsakt=mod&checkpin=1&client=%s' %
                                     (base64.b64encode(self.logincode.encode('utf-8')), WBCLIENT)
             )
+            import ipdb
+            ipdb.set_trace()
             pre_login = json.loads(re.match(r'[^{]+({.+?})', resp.text).group(1))
             resp = self.session.post('https://login.sina.com.cn/sso/login.php?client=%s' %
                                       WBCLIENT, data=WbUtils.getLoginStructure(self.logincode,self.password,pre_login)
             )
             crossdomain2 = re.search('(https://[^;]*)',resp.text).group(1)
             resp = self.session.get(crossdomain2)
+
             passporturl = re.search("(https://passport[^\"]*)",resp.text.replace('\/', '/')).group(0)
             resp = self.session.get(passporturl)
             login_info = json.loads(re.search('\((\{.*\})\)', resp.text).group(1))

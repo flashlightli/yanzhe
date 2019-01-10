@@ -1,10 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/threading.py" description="class Thread:" line="737" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="e5226503-a153-4eed-8537-7774e0d78c7d" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/yanzhe.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/yanzhe.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SinaWeibo/SinaWeibo/get_joke.py" beforeDir="false" afterPath="$PROJECT_DIR$/SinaWeibo/SinaWeibo/get_joke.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SinaWeibo/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/SinaWeibo/run.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SinaWeibo/SinaWeibo/weibo.py" beforeDir="false" afterPath="$PROJECT_DIR$/SinaWeibo/SinaWeibo/weibo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/http_server" beforeDir="false" afterPath="$PROJECT_DIR$/http_server" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/http_server/src/http_client.py" beforeDir="false" afterPath="$PROJECT_DIR$/http_server/src/http_client.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/li_pro/_celery.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/li_pro/app1/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/li_pro/app1/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/li_pro/app1/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/li_pro/app1/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/li_pro/app1/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/li_pro/app2/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/li_pro/app2/management/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/li_pro/app2/management/commands/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/li_pro/app2/management/commands/test_script.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/li_pro/app2/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/li_pro/app2/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/li_pro/app2/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/li_pro/app2/view/weibo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/li_pro/app2/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/li_pro/db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/li_pro/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/li_pro/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/li_pro/settings/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/li_pro/settings/base_setting.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/li_pro/settings/logs_settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/li_pro/settings/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/li_pro/settings/settings_local.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/li_pro/settings/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/li_pro/settings/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/requests" beforeDir="false" afterPath="$PROJECT_DIR$/requests" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requests/docs/conf.py" beforeDir="false" afterPath="$PROJECT_DIR$/requests/docs/conf.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requests/requests/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/requests/requests/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rpc_li/rpc_server.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,22 +50,30 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/yanzhe$test.coverage" NAME="test Coverage Results" MODIFIED="1540287110760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/yanzhe$test.coverage" NAME="test Coverage Results" MODIFIED="1540800974418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code_" />
     <SUITE FILE_PATH="coverage/yanzhe$peng.coverage" NAME="peng Coverage Results" MODIFIED="1540138981781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/slide" />
     <SUITE FILE_PATH="coverage/yanzhe$get_joke.coverage" NAME="get_joke Coverage Results" MODIFIED="1540314328382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SinaWeibo/SinaWeibo" />
     <SUITE FILE_PATH="coverage/yanzhe$manage.coverage" NAME="manage Coverage Results" MODIFIED="1540223256339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/li_pro" />
+    <SUITE FILE_PATH="coverage/yanzhe$url.coverage" NAME="url Coverage Results" MODIFIED="1546831784560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/http_server" />
+    <SUITE FILE_PATH="coverage/yanzhe$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1544718266263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/rpc_li" />
     <SUITE FILE_PATH="coverage/yanzhe$moni.coverage" NAME="moni Coverage Results" MODIFIED="1540287489416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/yanzhe$func_number.coverage" NAME="func_number Coverage Results" MODIFIED="1547102169579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/http_server/func_dic" />
     <SUITE FILE_PATH="coverage/yanzhe$fu.coverage" NAME="fu Coverage Results" MODIFIED="1540138979164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/slide" />
+    <SUITE FILE_PATH="coverage/yanzhe$socket_li.coverage" NAME="socket_li Coverage Results" MODIFIED="1547102501726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/http_server" />
     <SUITE FILE_PATH="coverage/yanzhe$base.coverage" NAME="base Coverage Results" MODIFIED="1537890743255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/rpc_li" />
-    <SUITE FILE_PATH="coverage/yanzhe$http_client.coverage" NAME="http_client Coverage Results" MODIFIED="1537462393249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/http_server/src" />
-    <SUITE FILE_PATH="coverage/yanzhe$test__2_.coverage" NAME="test (2) Coverage Results" MODIFIED="1540312876175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/slide" />
+    <SUITE FILE_PATH="coverage/yanzhe$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1545100975246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/rpc_li" />
+    <SUITE FILE_PATH="coverage/yanzhe$http_client.coverage" NAME="http_client Coverage Results" MODIFIED="1546668821628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/http_server/src" />
     <SUITE FILE_PATH="coverage/yanzhe$weibo.coverage" NAME="weibo Coverage Results" MODIFIED="1540515177703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SinaWeibo/SinaWeibo" />
+    <SUITE FILE_PATH="coverage/yanzhe$test__2_.coverage" NAME="test (2) Coverage Results" MODIFIED="1543915636038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/yanzhe$load_func.coverage" NAME="load_func Coverage Results" MODIFIED="1546784889094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/http_server" />
     <SUITE FILE_PATH="coverage/yanzhe$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1540313287496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SinaWeibo/test" />
-    <SUITE FILE_PATH="coverage/yanzhe$run.coverage" NAME="run Coverage Results" MODIFIED="1540515188648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SinaWeibo" />
+    <SUITE FILE_PATH="coverage/yanzhe$run.coverage" NAME="run Coverage Results" MODIFIED="1546831839628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/http_server" />
     <SUITE FILE_PATH="coverage/yanzhe$demo.coverage" NAME="demo Coverage Results" MODIFIED="1537669922972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/yanzhe$http_server.coverage" NAME="http_server Coverage Results" MODIFIED="1537462149334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/http_server/src" />
+    <SUITE FILE_PATH="coverage/yanzhe$http_server.coverage" NAME="http_server Coverage Results" MODIFIED="1546668574316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/http_server/src" />
     <SUITE FILE_PATH="coverage/yanzhe$qiu.coverage" NAME="qiu Coverage Results" MODIFIED="1540138976699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/slide" />
     <SUITE FILE_PATH="coverage/yanzhe$dou.coverage" NAME="dou Coverage Results" MODIFIED="1540138984105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/slide" />
+    <SUITE FILE_PATH="coverage/yanzhe$socket.coverage" NAME="socket Coverage Results" MODIFIED="1546674378915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/http_server" />
+    <SUITE FILE_PATH="coverage/yanzhe$client_li.coverage" NAME="client_li Coverage Results" MODIFIED="1547102510587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/http_server" />
   </component>
   <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
     <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
@@ -41,91 +85,77 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="test.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SinaWeibo/test/test.py">
+      <file leaf-file-name="load_func.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/http_server/load_func.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="8" selection-start-line="7" selection-start-column="26" selection-end-line="8" />
+            <state relative-caret-position="310">
+              <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
               <folding>
-                <element signature="e#42#85#0" expanded="true" />
+                <element signature="e#24#40#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="func_number.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/http_server/func_dic/func_number.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
+              <folding>
+                <element signature="e#24#35#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="socket_li.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/li_rpc/socket_li.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+              <folding>
+                <element signature="e#24#37#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="24" selection-start-column="24" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="client_li.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/li_rpc/client_li.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+              <folding>
+                <element signature="e#24#37#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="setup.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/li_rpc/setup.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="run.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SinaWeibo/run.py">
+        <entry file="file://$PROJECT_DIR$/http_server/run.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
-              <caret line="1" column="8" selection-start-line="1" selection-end-line="2" />
-              <folding>
-                <element signature="e#42#75#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SinaWeibo/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="get_joke.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/SinaWeibo/SinaWeibo/get_joke.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="23" selection-start-column="23" selection-end-column="23" />
-              <folding>
-                <element signature="e#0#14#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/slide/test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="38" selection-start-line="38" selection-end-line="38" />
-              <folding>
-                <element signature="e#0#21#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="dou.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/slide/dou.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="23" selection-start-line="2" selection-end-line="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="follow.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SinaWeibo/SinaWeibo/follow.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="utils.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SinaWeibo/SinaWeibo/utils.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="weibo.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SinaWeibo/SinaWeibo/weibo.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="660">
-              <caret line="49" column="78" selection-start-line="49" selection-start-column="73" selection-end-line="49" selection-end-column="78" />
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -145,21 +175,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>threading</find>
-      <find>send</find>
-      <find>_send_hello</find>
-      <find>socket</find>
-      <find>RouteGuideServicer</find>
-      <find>helloworld_pb2_grpc</find>
-      <find>RouteGuideStub</find>
-      <find>ALLOWED_HOSTS</find>
-      <find>2018-10-16T02_59_26_457Z-debug</find>
-      <find>$USER_HOME$/.npm/</find>
-      <find>git</find>
-      <find>Users</find>
-      <find>db</find>
-      <find>npm</find>
-      <find>pack</find>
       <find>package</find>
       <find>NullHandler</find>
       <find>log</find>
@@ -171,9 +186,27 @@
       <find>getAdminData</find>
       <find>url</find>
       <find>group</find>
+      <find>user_agent</find>
+      <find>middleware</find>
+      <find>route_guide_pb2.beta_create_RouteGuide_server</find>
+      <find>thread</find>
+      <find>grpc.server</find>
+      <find>test2</find>
+      <find>print_function</find>
+      <find>handle_http</find>
+      <find>__main__</find>
+      <find>route_guide_pb2</find>
+      <find>read_route_guide_database</find>
+      <find>guide_record_route</find>
+      <find>Feature</find>
+      <find>_local</find>
+      <find>StreamRequestHandler</find>
+      <find>threading</find>
+      <find>_stop</find>
+      <find>_target</find>
+      <find>AF_INET</find>
     </findStrings>
     <dirStrings>
-      <dir>$PROJECT_DIR$/grpc-master/src/python</dir>
       <dir>$PROJECT_DIR$/grpc-master/examples/python/helloworld</dir>
       <dir>$PROJECT_DIR$/vue2-manage</dir>
       <dir>$PROJECT_DIR$/vue_manage/manage</dir>
@@ -184,6 +217,9 @@
       <dir>$PROJECT_DIR$/li_pro/settings</dir>
       <dir>$PROJECT_DIR$/vue_manage/src</dir>
       <dir>$PROJECT_DIR$/vue_manage</dir>
+      <dir>$PROJECT_DIR$/grpc-master/src/python</dir>
+      <dir>$PROJECT_DIR$/grpc-master</dir>
+      <dir>$PROJECT_DIR$/http_server</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -195,37 +231,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/demo.html" />
-        <option value="$PROJECT_DIR$/http_server/src/http_server.py" />
-        <option value="$PROJECT_DIR$/http_server/src/http_client.py" />
-        <option value="$USER_HOME$/virtualenvs/yanzhe/lib/python3.6/site-packages/requests/sessions.py" />
-        <option value="$PROJECT_DIR$/demo.py" />
-        <option value="$PROJECT_DIR$/rpc_li/base.py" />
-        <option value="$PROJECT_DIR$/rpc_li/rpc_server.py" />
-        <option value="$PROJECT_DIR$/grpc-master/examples/python/route_guide/route_guide_server.py" />
-        <option value="$PROJECT_DIR$/rpc_li/rpc_client.py" />
-        <option value="$PROJECT_DIR$/grpc-master/examples/python/helloworld/greeter_server.py" />
-        <option value="$PROJECT_DIR$/Testyz/manage.py" />
-        <option value="$PROJECT_DIR$/vue2-manage/src/store/index.js" />
-        <option value="$PROJECT_DIR$/vue2-manage/xz.py" />
-        <option value="$PROJECT_DIR$/nmn.py" />
-        <option value="$PROJECT_DIR$/vue_manage/config/index.js" />
-        <option value="$PROJECT_DIR$/Testyz/Testyz/tasks.py" />
-        <option value="$PROJECT_DIR$/Testyz/Testyz/urls.py" />
-        <option value="$PROJECT_DIR$/Testyz/Testyz/views.py" />
-        <option value="$PROJECT_DIR$/li_pro/manage.py" />
-        <option value="$PROJECT_DIR$/li_pro/app2/management/commands/__init__.py" />
-        <option value="$PROJECT_DIR$/li_pro/app2/management/__init__.py" />
-        <option value="$PROJECT_DIR$/li_pro/app2/management/commands/test_script.py" />
-        <option value="$PROJECT_DIR$/li_pro/settings/base_setting.py" />
-        <option value="$PROJECT_DIR$/li_pro/_celery.py" />
-        <option value="$PROJECT_DIR$/li_pro/settings/settings_local.py" />
-        <option value="$PROJECT_DIR$/li_pro/settings/urls.py" />
-        <option value="$PROJECT_DIR$/li_pro/settings/settings.py" />
-        <option value="$PROJECT_DIR$/li_pro/settings/logs_settings.py" />
-        <option value="$PROJECT_DIR$/test.py" />
-        <option value="$PROJECT_DIR$/slide/util.py" />
-        <option value="$PROJECT_DIR$/slide/test.html" />
         <option value="$PROJECT_DIR$/slide/qiu.py" />
         <option value="$PROJECT_DIR$/slide/peng.py" />
         <option value="$PROJECT_DIR$/li_pro/app2/views.py" />
@@ -241,9 +246,42 @@
         <option value="$PROJECT_DIR$/slide/test.py" />
         <option value="$PROJECT_DIR$/SinaWeibo/test/test.py" />
         <option value="$PROJECT_DIR$/SinaWeibo/.gitignore" />
-        <option value="$PROJECT_DIR$/SinaWeibo/SinaWeibo/weibo.py" />
         <option value="$PROJECT_DIR$/SinaWeibo/run.py" />
         <option value="$PROJECT_DIR$/SinaWeibo/SinaWeibo/get_joke.py" />
+        <option value="$PROJECT_DIR$/SinaWeibo/SinaWeibo/weibo.py" />
+        <option value="$PROJECT_DIR$/code_/test.py" />
+        <option value="$PROJECT_DIR$/rpc_li/falcon.py" />
+        <option value="$PROJECT_DIR$/rpc_li/func_map.py" />
+        <option value="$PROJECT_DIR$/rpc_li/rpc_function.py" />
+        <option value="$PROJECT_DIR$/rpc_li/falcon-rpc.py" />
+        <option value="$PROJECT_DIR$/rpc_li/thread.py" />
+        <option value="$PROJECT_DIR$/rpc_li/called_server.py" />
+        <option value="$PROJECT_DIR$/rpc_li/version.py" />
+        <option value="$PROJECT_DIR$/rpc_li/call_server/__init__.py" />
+        <option value="$PROJECT_DIR$/rpc_li/called_server/__init__.py" />
+        <option value="$PROJECT_DIR$/rpc_li/version/__init__.py" />
+        <option value="$PROJECT_DIR$/rpc_li/setup.py" />
+        <option value="$PROJECT_DIR$/rpc_li/rpc_li/commands.py" />
+        <option value="$PROJECT_DIR$/rpc_li/rpc_li/wsgi_app.py" />
+        <option value="$PROJECT_DIR$/practice/elasticsearch.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/rpc_li/test3.py" />
+        <option value="$PROJECT_DIR$/rpc_li/test1.py" />
+        <option value="$PROJECT_DIR$/rpc_li/test2.py" />
+        <option value="$PROJECT_DIR$/http_server/socket.py" />
+        <option value="$PROJECT_DIR$/http_server/src/http_client.py" />
+        <option value="$PROJECT_DIR$/http_server/func_number.py" />
+        <option value="$PROJECT_DIR$/http_server/func/__init__.py" />
+        <option value="$PROJECT_DIR$/http_server/func_dic/__init__.py" />
+        <option value="$PROJECT_DIR$/http_server/__init__.py" />
+        <option value="$PROJECT_DIR$/http_server/run.py" />
+        <option value="$PROJECT_DIR$/http_server/url.py" />
+        <option value="$PROJECT_DIR$/http_server/load_func.py" />
+        <option value="$PROJECT_DIR$/http_server/client_li.py" />
+        <option value="$PROJECT_DIR$/http_server/func_dic/func_number.py" />
+        <option value="$PROJECT_DIR$/http_server/socket_li.py" />
+        <option value="$PROJECT_DIR$/http_server/setup.py" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -265,10 +303,10 @@
       <path value="$PROJECT_DIR$/vue_manage/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="24" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
     <option name="width" value="1280" />
-    <option name="height" value="705" />
+    <option name="height" value="709" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -292,22 +330,26 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="SearchEverywhereHistoryKey" value="img2&#9;FILE&#9;file:///Users/mac/Desktop/yanzhe/slide/img2.gif&#10;index.&#9;FILE&#9;file:///Users/mac/Desktop/yanzhe/vue_manage/config/index.js&#10;route_guide_server&#9;null&#9;null" />
+    <property name="SearchEverywhereHistoryKey" value="route_guide_server.py&#9;FILE&#9;file:///Users/mac/Desktop/yanzhe/grpc-master/examples/python/route_guide/route_guide_server.py&#10;img2&#9;FILE&#9;file:///Users/mac/Desktop/yanzhe/slide/img2.gif&#10;index.&#9;FILE&#9;file:///Users/mac/Desktop/yanzhe/vue_manage/config/index.js&#10;route_guide_server&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JSON" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/SinaWeibo" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/li_rpc" />
+      <recent name="$PROJECT_DIR$/http_server/func" />
+      <recent name="$PROJECT_DIR$/rpc_li/version" />
       <recent name="$PROJECT_DIR$/SinaWeibo/test" />
       <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/SinaWeibo" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -322,8 +364,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.run">
-    <configuration name="get_joke" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.client_li">
+    <configuration name="client_li" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="yanzhe" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -331,12 +373,31 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SinaWeibo/SinaWeibo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/http_server" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SinaWeibo/SinaWeibo/get_joke.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/li_rpc/client_li.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="func_number" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="yanzhe" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/http_server/func_dic" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/http_server/func_dic/func_number.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -350,18 +411,18 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SinaWeibo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/http_server" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SinaWeibo/run.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/http_server/run.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="socket_li" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="yanzhe" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -369,18 +430,18 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SinaWeibo/test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/http_server" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SinaWeibo/test/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/li_rpc/socket_li.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="test (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="url" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="yanzhe" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -388,31 +449,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/slide" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/http_server" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/slide/test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="weibo" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="yanzhe" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SinaWeibo/SinaWeibo" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SinaWeibo/SinaWeibo/weibo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/http_server/url.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -443,19 +485,19 @@
     </configuration>
     <list>
       <item itemvalue="Django server.li_pro" />
-      <item itemvalue="Python.test (1)" />
-      <item itemvalue="Python.get_joke" />
-      <item itemvalue="Python.test (2)" />
+      <item itemvalue="Python.url" />
       <item itemvalue="Python.run" />
-      <item itemvalue="Python.weibo" />
+      <item itemvalue="Python.socket_li" />
+      <item itemvalue="Python.client_li" />
+      <item itemvalue="Python.func_number" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.client_li" />
+        <item itemvalue="Python.socket_li" />
+        <item itemvalue="Python.func_number" />
         <item itemvalue="Python.run" />
-        <item itemvalue="Python.weibo" />
-        <item itemvalue="Python.get_joke" />
-        <item itemvalue="Python.test (1)" />
-        <item itemvalue="Python.test (2)" />
+        <item itemvalue="Python.url" />
       </list>
     </recent_temporary>
   </component>
@@ -519,28 +561,35 @@
       <option name="project" value="LOCAL" />
       <updated>1540488147814</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="微博project">
+      <created>1540539996344</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1540539996344</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="709" extended-state="6" />
+    <frame x="0" y="23" width="1280" height="709" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.3284553" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5016155" side_tool="true" weight="0.3529412" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.29180327" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4983845" weight="0.3529412" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32894737" />
-      <window_info anchor="bottom" id="Python Console" order="7" weight="0.3289689" />
+      <window_info anchor="bottom" id="Python Console" order="7" sideWeight="0.4983845" weight="0.3267974" />
       <window_info anchor="right" id="Mongo Explorer" order="3" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3398693" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24959612" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49757674" weight="0.29411766" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18820679" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32843137" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3967213" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39542484" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="TypeScript" order="7" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -548,10 +597,37 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Inspection Results" order="8" weight="0.32894737" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.3284553" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3284553" />
     </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3529412" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24959612" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" order="10" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Inspection Results" order="15" weight="0.32894737" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3284553" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.3284553" />
+      <window_info anchor="right" id="Mongo Explorer" order="3" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39542484" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32894737" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.5024233" side_tool="true" weight="0.29411766" />
+      <window_info anchor="right" id="SciView" order="5" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49757674" weight="0.29411766" />
+      <window_info anchor="bottom" id="Python Console" order="14" weight="0.32730263" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -573,6 +649,11 @@
           <line>936</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/threading.py</url>
+          <line>757</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -581,308 +662,725 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="21" />
+      <option name="time" value="36" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/slide/peng.py">
+    <entry file="file://$PROJECT_DIR$/grpc-master/src/python/grpcio_tests/tests/_runner.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="9" selection-start-line="4" selection-end-line="5" />
+        <state relative-caret-position="-2012" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grpc-master/src/python/grpcio/grpc/framework/interfaces/base/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4550" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grpc-master/src/python/grpcio/commands.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="314" column="21" lean-forward="true" selection-start-line="314" selection-start-column="21" selection-end-line="314" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/li_pro/app2/tests.py" />
-    <entry file="file://$PROJECT_DIR$/slide/test.html">
+    <entry file="file://$PROJECT_DIR$/grpc-master/src/python/grpcio_testing/grpc_testing/_server/_rpc.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="8" selection-end-line="10" selection-end-column="7" />
+        <state relative-caret-position="-1125" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/virtualenvs/yanzhe/lib/python3.6/site-packages/grpc/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="1653" column="31" lean-forward="true" selection-start-line="1653" selection-start-column="31" selection-end-line="1653" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/slide/util.py">
+    <entry file="file://$PROJECT_DIR$/grpc-master/src/python/grpcio_tests/tests/unit/_channel_args_test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="28" column="73" selection-start-line="28" selection-start-column="73" selection-end-line="28" selection-end-column="73" />
+        <state relative-caret-position="212">
+          <caret line="42" column="16" lean-forward="true" selection-start-line="42" selection-start-column="16" selection-end-line="42" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/li_pro/settings/settings.py">
+    <entry file="file://$PROJECT_DIR$/grpc-master/src/python/grpcio_testing/grpc_testing/_time.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="28" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
+        <state relative-caret-position="-414">
+          <caret line="35" column="29" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/li_pro/app2/models.py">
+    <entry file="file://$PROJECT_DIR$/grpc-master/src/python/grpcio_tests/commands.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="225" column="18" lean-forward="true" selection-start-line="225" selection-start-column="18" selection-end-line="225" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grpc-master/src/python/grpcio_tests/setup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-993" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grpc-master/src/python/grpcio/grpc/_server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="97" column="45" lean-forward="true" selection-start-line="97" selection-start-column="45" selection-end-line="97" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grpc-master/src/python/grpcio_testing/grpc_testing/_common.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1950" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rpc_li/rpc_li/commands.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="10" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rpc_li/rpc_li/wsgi_app.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/li_pro/app1/views.py">
+    <entry file="file://$PROJECT_DIR$/rpc_li/falcon-rpc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/elasticsearch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="32" selection-start-line="1" selection-start-column="32" selection-end-line="1" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/virtualenvs/yanzhe/lib/python3.6/site-packages/elasticsearch/client/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="558" column="8" selection-start-line="558" selection-start-column="8" selection-end-line="558" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rpc_li/rpc_client.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/li_pro/settings/urls.py">
+    <entry file="file://$PROJECT_DIR$/rpc_li/thread.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="30" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/virtualenvs/yanzhe/lib/python3.6/site-packages/django/conf/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="113">
-          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        <state>
+          <caret column="7" selection-end-line="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/li_pro/manage.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="195">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vue_manage/favicon.ico">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vue_manage/.gitignore">
+    <entry file="file://$USER_HOME$/virtualenvs/yanzhe/lib/python3.6/site-packages/django/core/management/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="4470">
+          <caret line="314" selection-start-line="314" selection-end-line="314" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vue_manage/manage/index.html">
+    <entry file="file://$PROJECT_DIR$/rpc_li/base.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/vue_manage/src/page/addGoods.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/li_pro/app2/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vue_manage/src/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="2" lean-forward="true" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vue_manage/src/App.vue">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vue_manage/src/page/addShop.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="20" column="27" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vue_manage/src/components/headTop.vue">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vue_manage/config/test.env.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vue_manage/config/prod.env.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vue_manage/config/dev.env.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vue_manage/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-404">
-          <caret line="29" column="54" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vue_manage/config/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-192" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vue_manage/src/api/getData.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vue_manage/node_modules/_vuex@2.5.0@vuex/types/helpers.d.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="911">
-          <caret line="62" column="21" selection-start-line="62" selection-start-column="21" selection-end-line="62" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vue_manage/src/store/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/virtualenvs/yanzhe/lib/python3.6/site-packages/django/http/response.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="281" column="8" selection-start-line="281" selection-start-column="8" selection-end-line="281" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/li_pro/app2/view/weibo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="29" column="18" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vue_manage/src/page/login.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1">
-          <caret line="24" column="11" lean-forward="true" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vue_manage/src/router/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="356">
-          <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/li_pro/app2/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vue_manage/src/config/env.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="42" lean-forward="true" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vue_manage/src/config/fetch.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-421">
-          <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/moni.py" />
-    <entry file="file://$PROJECT_DIR$/SinaWeibo/SinaWeibo/blog.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SinaWeibo/SinaWeibo/follow.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SinaWeibo/SinaWeibo/utils.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SinaWeibo/imgs/temp.jpg" />
-    <entry file="file://$PROJECT_DIR$/slide/fu.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="33" column="31" selection-start-line="33" selection-start-column="27" selection-end-line="33" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SinaWeibo/SinaWeibo/fans.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/slide/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="38" selection-start-line="38" selection-end-line="38" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/slide/dou.py">
+    <entry file="file://$PROJECT_DIR$/rpc_li/test3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="2" column="23" selection-start-line="2" selection-end-line="3" />
+          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SinaWeibo/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SinaWeibo/test/test.py">
+    <entry file="file://$PROJECT_DIR$/rpc_li/test1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="8" selection-start-line="7" selection-start-column="26" selection-end-line="8" />
-          <folding>
-            <element signature="e#42#85#0" expanded="true" />
-          </folding>
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/typing.pyi">
+    <entry file="file://$PROJECT_DIR$/rpc_li/test2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="475" column="8" selection-start-line="475" selection-start-column="8" selection-end-line="475" selection-end-column="8" />
+        <state relative-caret-position="265">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SinaWeibo/SinaWeibo/weibo.py">
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.1/python_stubs/1084368813/builtins.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="49" column="78" selection-start-line="49" selection-start-column="73" selection-end-line="49" selection-end-column="78" />
+        <state relative-caret-position="195">
+          <caret line="2436" column="8" selection-start-line="2436" selection-start-column="8" selection-end-line="2436" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SinaWeibo/run.py">
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/socket.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="8" selection-start-line="1" selection-end-line="2" />
-          <folding>
-            <element signature="e#42#75#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="2622">
+          <caret line="197" column="8" selection-start-line="197" selection-start-column="8" selection-end-line="197" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SinaWeibo/SinaWeibo/get_joke.py">
+    <entry file="file://$PROJECT_DIR$/http_server/src/http_server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="145" column="26" lean-forward="true" selection-start-line="145" selection-start-column="3" selection-end-line="145" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/http_server/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/http_server/func_dic/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="23" selection-start-column="23" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/concurrent/futures/thread.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-305">
+          <caret line="90" column="8" selection-start-line="90" selection-start-column="8" selection-end-line="90" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/virtualenvs/yanzhe/lib/python3.6/site-packages/grpc/_server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="816" column="8" selection-start-line="816" selection-start-column="8" selection-end-line="816" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grpc-master/examples/python/route_guide/route_guide_server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="62" column="65" selection-start-line="62" selection-start-column="40" selection-end-line="62" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/json/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="273" column="4" selection-start-line="273" selection-start-column="4" selection-end-line="273" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grpc-master/examples/python/route_guide/route_guide_client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="71" column="41" selection-start-line="71" selection-start-column="41" selection-end-line="71" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grpc-master/examples/python/multiplex/route_guide_resources.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="23" column="10" lean-forward="true" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grpc-master/examples/python/multiplex/multiplex_server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.1/python_stubs/1084368813/_thread.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-117">
+          <caret line="389" column="6" selection-start-line="389" selection-start-column="6" selection-end-line="389" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3/threading.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="48" column="6" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/threading.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-536">
+          <caret line="737" column="6" selection-start-line="737" selection-start-column="6" selection-end-line="737" selection-end-column="6" />
           <folding>
-            <element signature="e#0#14#0" expanded="true" />
+            <element signature="e#390#428#0" />
+            <element signature="e#913#1235#0" />
+            <element signature="e#1703#1943#0" />
+            <element signature="e#1703#1893#1" />
+            <element signature="e#1969#2201#0" />
+            <element signature="e#1969#2155#1" />
+            <element signature="e#2285#2698#0" />
+            <element signature="e#2285#2597#1" />
+            <element signature="e#2718#6690#0" />
+            <element signature="e#2718#3024#1" />
+            <element signature="e#3058#3139#0" />
+            <element signature="e#3173#3572#0" />
+            <element signature="e#3363#3562#0" />
+            <element signature="e#3632#5186#0" />
+            <element signature="e#3632#4939#1" />
+            <element signature="e#5007#5044#0" />
+            <element signature="e#5124#5168#0" />
+            <element signature="e#5244#6109#0" />
+            <element signature="e#5244#5871#1" />
+            <element signature="e#6057#6109#0" />
+            <element signature="e#6153#6167#0" />
+            <element signature="e#6268#6330#0" />
+            <element signature="e#6369#6622#0" />
+            <element signature="e#6657#6690#0" />
+            <element signature="e#6733#12499#0" />
+            <element signature="e#6733#7101#1" />
+            <element signature="e#7146#7932#0" />
+            <element signature="e#7356#7420#0" />
+            <element signature="e#7967#7996#0" />
+            <element signature="e#8037#8070#0" />
+            <element signature="e#8104#8167#0" />
+            <element signature="e#8206#8255#0" />
+            <element signature="e#8300#8351#0" />
+            <element signature="e#8386#8637#0" />
+            <element signature="e#8386#8435#0" />
+            <element signature="e#8554#8599#0" />
+            <element signature="e#8681#10670#0" />
+            <element signature="e#8681#9818#1" />
+            <element signature="e#10164#10450#0" />
+            <element signature="e#10200#10245#0" />
+            <element signature="e#10280#10425#0" />
+            <element signature="e#10480#10670#0" />
+            <element signature="e#10557#10670#0" />
+            <element signature="e#10729#11408#0" />
+            <element signature="e#10729#10955#1" />
+            <element signature="e#11073#11386#0" />
+            <element signature="e#11114#11321#0" />
+            <element signature="e#11225#11321#0" />
+            <element signature="e#11445#12214#0" />
+            <element signature="e#11445#11782#1" />
+            <element signature="e#12086#12214#0" />
+            <element signature="e#12250#12471#0" />
+            <element signature="e#12250#12431#1" />
+            <element signature="e#12523#15564#0" />
+            <element signature="e#12523#12856#1" />
+            <element signature="e#12977#13126#0" />
+            <element signature="e#13188#15141#0" />
+            <element signature="e#13188#14430#1" />
+            <element signature="e#14638#15123#0" />
+            <element signature="e#14678#15046#0" />
+            <element signature="e#14781#15005#0" />
+            <element signature="e#14903#15005#0" />
+            <element signature="e#15081#15123#0" />
+            <element signature="e#15199#15506#0" />
+            <element signature="e#15199#15420#1" />
+            <element signature="e#15458#15506#0" />
+            <element signature="e#15550#15564#0" />
+            <element signature="e#15606#16959#0" />
+            <element signature="e#15606#16293#1" />
+            <element signature="e#16336#16403#0" />
+            <element signature="e#16436#16959#0" />
+            <element signature="e#16436#16752#1" />
+            <element signature="e#16790#16959#0" />
+            <element signature="e#16979#19038#0" />
+            <element signature="e#16979#17227#1" />
+            <element signature="e#17320#17377#0" />
+            <element signature="e#17424#17527#0" />
+            <element signature="e#17559#17644#0" />
+            <element signature="e#17693#17973#0" />
+            <element signature="e#17693#17882#1" />
+            <element signature="e#17920#17973#0" />
+            <element signature="e#18004#18236#0" />
+            <element signature="e#18004#18180#1" />
+            <element signature="e#18280#19038#0" />
+            <element signature="e#18280#18870#1" />
+            <element signature="e#18908#19038#0" />
+            <element signature="e#19041#19110#0" />
+            <element signature="e#19730#24902#0" />
+            <element signature="e#19730#19945#1" />
+            <element signature="e#20015#20594#0" />
+            <element signature="e#20015#20364#1" />
+            <element signature="e#20638#21631#0" />
+            <element signature="e#20638#20978#1" />
+            <element signature="e#21080#21631#0" />
+            <element signature="e#21222#21480#0" />
+            <element signature="e#21273#21333#0" />
+            <element signature="e#21376#21451#0" />
+            <element signature="e#21518#21631#0" />
+            <element signature="e#21637#21701#0" />
+            <element signature="e#21755#22019#0" />
+            <element signature="e#21797#21873#0" />
+            <element signature="e#22025#22086#0" />
+            <element signature="e#22141#22437#0" />
+            <element signature="e#22158#22304#0" />
+            <element signature="e#22333#22437#0" />
+            <element signature="e#22443#22507#0" />
+            <element signature="e#22587#22853#0" />
+            <element signature="e#22663#22756#0" />
+            <element signature="e#22859#22926#0" />
+            <element signature="e#22996#23166#0" />
+            <element signature="e#23029#23166#0" />
+            <element signature="e#23072#23166#0" />
+            <element signature="e#23197#23812#0" />
+            <element signature="e#23197#23344#1" />
+            <element signature="e#23382#23812#0" />
+            <element signature="e#23418#23726#0" />
+            <element signature="e#23459#23533#0" />
+            <element signature="e#23594#23726#0" />
+            <element signature="e#23594#23628#0" />
+            <element signature="e#23843#24095#0" />
+            <element signature="e#23843#24044#1" />
+            <element signature="e#24127#24287#0" />
+            <element signature="e#24127#24183#0" />
+            <element signature="e#24334#24427#0" />
+            <element signature="e#24476#24769#0" />
+            <element signature="e#24553#24623#0" />
+            <element signature="e#24815#24902#0" />
+            <element signature="e#24988#24992#0" />
+            <element signature="e#25160#25188#0" />
+            <element signature="e#25388#25657#1" />
+            <element signature="e#25688#25744#0" />
+            <element signature="e#25964#26023#0" />
+            <element signature="e#26220#27069#1" />
+            <element signature="e#27620#27664#0" />
+            <element signature="e#27891#28318#0" />
+            <element signature="e#27891#27957#0" />
+            <element signature="e#28161#28318#0" />
+            <element signature="e#28161#28222#0" />
+            <element signature="e#28352#28856#0" />
+            <element signature="e#29695#30045#1" />
+            <element signature="e#30175#30234#0" />
+            <element signature="e#30396#31359#0" />
+            <element signature="e#30396#30449#0" />
+            <element signature="e#31283#31359#0" />
+            <element signature="e#31395#31420#0" />
+            <element signature="e#31462#31696#0" />
+            <element signature="e#31462#31616#1" />
+            <element signature="e#31738#34597#0" />
+            <element signature="e#31755#34313#0" />
+            <element signature="e#31894#31954#0" />
+            <element signature="e#32237#34017#0" />
+            <element signature="e#32237#32293#0" />
+            <element signature="e#32548#32657#0" />
+            <element signature="e#32725#34017#0" />
+            <element signature="e#32725#32778#0" />
+            <element signature="e#32998#33777#0" />
+            <element signature="e#33357#33692#0" />
+            <element signature="e#33462#33618#0" />
+            <element signature="e#33798#33855#0" />
+            <element signature="e#34055#34313#0" />
+            <element signature="e#34055#34074#0" />
+            <element signature="e#34343#34597#0" />
+            <element signature="e#34384#34597#0" />
+            <element signature="e#34409#34548#0" />
+            <element signature="e#34409#34455#0" />
+            <element signature="e#34628#34699#0" />
+            <element signature="e#35829#37618#0" />
+            <element signature="e#35906#35947#0" />
+            <element signature="e#37162#37517#0" />
+            <element signature="e#37203#37517#0" />
+            <element signature="e#37244#37305#0" />
+            <element signature="e#37555#37618#0" />
+            <element signature="e#37662#39314#0" />
+            <element signature="e#37662#38709#1" />
+            <element signature="e#39114#39314#0" />
+            <element signature="e#39114#39172#0" />
+            <element signature="e#40096#40377#0" />
+            <element signature="e#40096#40286#1" />
+            <element signature="e#40430#40517#0" />
+            <element signature="e#40562#40975#0" />
+            <element signature="e#40562#40883#1" />
+            <element signature="e#41009#41488#0" />
+            <element signature="e#41009#41261#1" />
+            <element signature="e#41558#42113#0" />
+            <element signature="e#41558#42018#1" />
+            <element signature="e#42174#42407#0" />
+            <element signature="e#42441#42459#0" />
+            <element signature="e#42504#42526#0" />
+            <element signature="e#42559#42575#0" />
+            <element signature="e#42614#42630#0" />
+            <element signature="e#42718#43533#0" />
+            <element signature="e#42718#42935#1" />
+            <element signature="e#43013#43244#0" />
+            <element signature="e#43276#43351#0" />
+            <element signature="e#43380#43533#0" />
+            <element signature="e#43621#43862#0" />
+            <element signature="e#43649#43862#0" />
+            <element signature="e#43865#43924#0" />
+            <element signature="e#44334#44780#0" />
+            <element signature="e#44362#44551#0" />
+            <element signature="e#44582#44586#0" />
+            <element signature="e#44620#44694#0" />
+            <element signature="e#44738#44780#0" />
+            <element signature="e#44833#45174#0" />
+            <element signature="e#44833#45078#1" />
+            <element signature="e#45232#45455#0" />
+            <element signature="e#45232#45384#1" />
+            <element signature="e#45507#45628#0" />
+            <element signature="e#45651#46001#0" />
+            <element signature="e#45651#45910#1" />
+            <element signature="e#46035#46067#0" />
+            <element signature="e#46200#46917#0" />
+            <element signature="e#46200#46270#0" />
+            <element signature="e#46619#46692#0" />
+            <element signature="e#46870#46917#0" />
+            <element signature="e#46955#47055#0" />
+            <element signature="e#46985#47039#0" />
+            <element signature="e#47080#47253#0" />
+            <element signature="e#47080#47229#1" />
+            <element signature="e#47255#47312#0" />
+            <element signature="e#47481#49035#0" />
+            <element signature="e#47481#47551#0" />
+            <element signature="e#48095#49035#0" />
+            <element signature="e#48095#48157#0" />
+            <element signature="e#48314#48919#0" />
+            <element signature="e#48314#48376#0" />
+            <element signature="e#48481#48764#0" />
+            <element signature="e#48481#48537#0" />
+            <element signature="e#48799#48919#0" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/http_server/url.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#24#59#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/http_server/src/http_client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.1/python_stubs/1084368813/_socket.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="580" column="8" selection-start-line="580" selection-start-column="8" selection-end-line="580" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/socketserver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="657" column="6" selection-start-line="657" selection-start-column="6" selection-end-line="657" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#4982#1" />
+            <element signature="e#5297#5504#0" />
+            <element signature="e#5640#5797#0" />
+            <element signature="e#5655#5796#0" />
+            <element signature="e#5799#5875#0" />
+            <element signature="e#6106#13341#0" />
+            <element signature="e#6106#7064#1" />
+            <element signature="e#7155#7396#0" />
+            <element signature="e#7437#7539#0" />
+            <element signature="e#7437#7526#1" />
+            <element signature="e#7597#8566#0" />
+            <element signature="e#7597#7812#1" />
+            <element signature="e#7874#8467#0" />
+            <element signature="e#7874#7940#0" />
+            <element signature="e#8182#8467#0" />
+            <element signature="e#8300#8467#0" />
+            <element signature="e#8497#8566#0" />
+            <element signature="e#8600#8872#0" />
+            <element signature="e#8600#8798#1" />
+            <element signature="e#8913#9093#0" />
+            <element signature="e#8913#9080#1" />
+            <element signature="e#9099#9170#0" />
+            <element signature="e#9715#10805#0" />
+            <element signature="e#9715#9800#1" />
+            <element signature="e#9809#9864#0" />
+            <element signature="e#10200#10267#0" />
+            <element signature="e#10387#10805#0" />
+            <element signature="e#10474#10805#0" />
+            <element signature="e#10633#10805#0" />
+            <element signature="e#10681#10805#0" />
+            <element signature="e#10854#11625#0" />
+            <element signature="e#10854#11094#1" />
+            <element signature="e#11277#11568#0" />
+            <element signature="e#11390#11479#0" />
+            <element signature="e#11516#11568#0" />
+            <element signature="e#11665#11783#0" />
+            <element signature="e#11665#11770#1" />
+            <element signature="e#11848#11984#0" />
+            <element signature="e#11848#11964#1" />
+            <element signature="e#12050#12234#0" />
+            <element signature="e#12050#12142#1" />
+            <element signature="e#12272#12359#0" />
+            <element signature="e#12272#12346#1" />
+            <element signature="e#12424#12550#0" />
+            <element signature="e#12601#12694#0" />
+            <element signature="e#12742#12802#0" />
+            <element signature="e#12865#13235#0" />
+            <element signature="e#12865#12987#1" />
+            <element signature="e#13270#13281#0" />
+            <element signature="e#13322#13341#0" />
+            <element signature="e#13378#16642#0" />
+            <element signature="e#13378#14459#1" />
+            <element signature="e#14690#15124#0" />
+            <element signature="e#14968#15124#0" />
+            <element signature="e#14989#15046#0" />
+            <element signature="e#15083#15124#0" />
+            <element signature="e#15161#15463#0" />
+            <element signature="e#15161#15246#1" />
+            <element signature="e#15504#15645#0" />
+            <element signature="e#15504#15593#1" />
+            <element signature="e#15683#15785#0" />
+            <element signature="e#15683#15757#1" />
+            <element signature="e#15817#15936#0" />
+            <element signature="e#15817#15900#1" />
+            <element signature="e#15973#16104#0" />
+            <element signature="e#15973#16068#1" />
+            <element signature="e#16155#16523#0" />
+            <element signature="e#16238#16406#0" />
+            <element signature="e#16238#16291#0" />
+            <element signature="e#16571#16642#0" />
+            <element signature="e#16678#17242#0" />
+            <element signature="e#16836#16946#0" />
+            <element signature="e#16987#17035#0" />
+            <element signature="e#17086#17153#0" />
+            <element signature="e#17201#17242#0" />
+            <element signature="e#17272#20413#0" />
+            <element signature="e#17300#20413#0" />
+            <element signature="e#17489#19014#0" />
+            <element signature="e#17632#17701#0" />
+            <element signature="e#18150#18465#0" />
+            <element signature="e#18175#18255#0" />
+            <element signature="e#18318#18407#0" />
+            <element signature="e#18580#19014#0" />
+            <element signature="e#18605#18816#0" />
+            <element signature="e#18662#18724#0" />
+            <element signature="e#18879#18957#0" />
+            <element signature="e#19062#19222#0" />
+            <element signature="e#19062#19186#1" />
+            <element signature="e#19271#19469#0" />
+            <element signature="e#19271#19433#1" />
+            <element signature="e#19543#20413#0" />
+            <element signature="e#19659#19886#0" />
+            <element signature="e#19921#20413#0" />
+            <element signature="e#19921#19937#0" />
+            <element signature="e#20066#20141#0" />
+            <element signature="e#20284#20413#0" />
+            <element signature="e#20442#21300#0" />
+            <element signature="e#20506#20560#0" />
+            <element signature="e#20679#20999#0" />
+            <element signature="e#20679#20788#1" />
+            <element signature="e#21065#21300#0" />
+            <element signature="e#21331#21442#0" />
+            <element signature="e#21380#21384#0" />
+            <element signature="e#21438#21442#0" />
+            <element signature="e#21497#21501#0" />
+            <element signature="e#21597#21911#0" />
+            <element signature="e#21640#21671#0" />
+            <element signature="e#21722#21753#0" />
+            <element signature="e#21826#21830#0" />
+            <element signature="e#21907#21911#0" />
+            <element signature="e#21944#23000#0" />
+            <element signature="e#21944#22627#1" />
+            <element signature="e#22694#22893#0" />
+            <element signature="e#22924#22928#0" />
+            <element signature="e#22960#22964#0" />
+            <element signature="e#22996#23000#0" />
+            <element signature="e#23003#23071#0" />
+            <element signature="e#23396#25009#0" />
+            <element signature="e#23460#23500#0" />
+            <element signature="e#23972#24023#0" />
+            <element signature="e#24149#24673#0" />
+            <element signature="e#24323#24434#0" />
+            <element signature="e#24705#25009#0" />
+            <element signature="e#24743#24955#0" />
+            <element signature="e#24832#24955#0" />
+            <element signature="e#24832#24886#0" />
+            <element signature="e#25052#25470#0" />
+            <element signature="e#25052#25188#1" />
+            <element signature="e#25228#25245#0" />
+            <element signature="e#25279#25290#0" />
+            <element signature="e#25324#25412#0" />
+            <element signature="e#25444#25470#0" />
+            <element signature="e#25527#25855#0" />
+            <element signature="e#25618#25761#0" />
+            <element signature="e#25793#25855#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/http_server/func_dic/func_number.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
+          <folding>
+            <element signature="e#24#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/http_server/load_func.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+          <folding>
+            <element signature="e#24#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/li_rpc/client_li.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+          <folding>
+            <element signature="e#24#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/li_rpc/setup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/http_server/run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/li_rpc/socket_li.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#24#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="24" selection-start-column="24" selection-end-column="24" />
         </state>
       </provider>
     </entry>

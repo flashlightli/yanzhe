@@ -17,6 +17,9 @@
       <sourceFolder url="file://$MODULE_DIR$/Testyz" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/li_pro" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/slide" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rpc_li" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/http_server/func_dic" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/grpc-master" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/vue_manage/node_modules" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.6 (yanzhe)" jdkType="Python SDK" />
